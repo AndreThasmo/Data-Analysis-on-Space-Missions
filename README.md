@@ -43,4 +43,4 @@ Dentre seu conteúdo, decorre:
 [linkDataBase]: https://raw.githubusercontent.com/AndreThasmo/Data-Analysis-on-Space-Missions/main/Space_Corrected.csv?token=AL7MMZULGDZCUMDLMDY3WZTBRFRB2
 [linkProjetoGitHub]: https://github.com/AndreThasmo/Data-Analysis-on-Space-Missions
 [linkPandas]: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
-[link_video]: https://www.powtoon.com/s/b5qMgQ7mMTg/1/m/s
+[link_video]: https://www.powtoon.com/ws/b5qMgQ7mMTg/1/m
